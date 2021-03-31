@@ -16,5 +16,10 @@
     "ethereum-waffle": "^3.3.0",
     "ethers": "^5.0.32",
     "hardhat": "^2.1.1"
+  },
+  "dependencies": {
+    "@0xcert/ethereum-erc721": "^2.0.0",
+    "@fleekhq/space-client": "^1.1.10",
+    "solc": "^0.7.3"
   }
 }
